@@ -1,0 +1,102 @@
+{
+	"info": {
+		"_postman_id": "dd5d2e4c-ca08-4f8d-bd66-800223b8ae90",
+		"name": "Budgetify",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Account",
+			"item": [
+				{
+					"name": "get account",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "create account",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "update account",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				},
+				{
+					"name": "delete account",
+					"request": {
+						"method": "GET",
+						"header": []
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Admin Reports",
+			"item": []
+		},
+		{
+			"name": "auth",
+			"item": []
+		},
+		{
+			"name": "app preferences",
+			"item": []
+		},
+		{
+			"name": "auth",
+			"item": []
+		},
+		{
+			"name": "expense category",
+			"item": []
+		},
+		{
+			"name": "expenses",
+			"item": []
+		},
+		{
+			"name": "faq",
+			"item": []
+		},
+		{
+			"name": "file",
+			"item": []
+		},
+		{
+			"name": "income",
+			"item": []
+		},
+		{
+			"name": "limit expenses",
+			"item": []
+		},
+		{
+			"name": "obligatory payment",
+			"item": []
+		},
+		{
+			"name": "pigearner",
+			"item": []
+		},
+		{
+			"name": "statistics",
+			"item": []
+		},
+		{
+			"name": "user",
+			"item": []
+		}
+	]
+}
